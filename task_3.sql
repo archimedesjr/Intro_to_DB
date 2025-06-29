@@ -1,3 +1,4 @@
+SHOW TABLES;
 SELECT * FROM Authors;
 SELECT * FROM Books;
 SELECT * FROM Customers;
